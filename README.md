@@ -31,7 +31,7 @@
     
     1. As the question asks, there is a PDF file answering the question and it is uploaded on this repo. 
     
-    2. I made an app that I made for iOS in Swift that is an attempt to answer the question. 
+    2. I made an app for iOS in Swift that is an attempt to answer the question. 
     The app is not complete, nor free of bugs (since I had a short time), but it is a first attempt to answer the question as    correct as possible.
     
     The screenshots are in the PDF file (obs.: they UI could be improved VERY much)
